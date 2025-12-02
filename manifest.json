@@ -1,0 +1,1270 @@
+{
+  "version": "1.5.0",
+  "instance_name": "SquidGame Instace",
+  "minecraft_version": "1.21.1",
+  "fabric_loader": "0.17.3",
+  "server": "server.pro/30175764",
+  "generated_at": "2025-12-02T20:13:48.645642",
+  "files": {
+    "mods/chatworking-1.02.0.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/chatworking-1.02.0.jar",
+      "sha256": "8b3167ed6ceb9ec97837ea5b7084c623d9cc56126e1eefa875b9004f6cec8e1c",
+      "size": 5100
+    },
+    "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
+      "sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
+      "size": 235272
+    },
+    "mods/fabric-api-0.116.7+1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/fabric-api-0.116.7+1.21.1.jar",
+      "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+      "size": 2424884
+    },
+    "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
+      "sha256": "f069dc8d0fc89f6b321f871eea3ddc333962b9bb225e967fcea35825ee1fe659",
+      "size": 3618632
+    },
+    "mods/geckolib-fabric-1.21.1-4.8.2.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/geckolib-fabric-1.21.1-4.8.2.jar",
+      "sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
+      "size": 652999
+    },
+    "mods/guardmask-1.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/guardmask-1.0.0.jar",
+      "sha256": "19260f245ad26e1a4dab719e2ad96e4a31e2a2ce474d259062f12b28df2532c8",
+      "size": 55880
+    },
+    "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "size": 786695
+    },
+    "mods/melody_fabric_1.0.10_MC_1.21.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "size": 188035
+    },
+    "mods/plasmovoice-fabric-1.21-2.1.6.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/plasmovoice-fabric-1.21-2.1.6.jar",
+      "sha256": "d1336f728e13b484ccdaaac448fd139d9629e24654716abef439726349c612fe",
+      "size": 12213876
+    },
+    "mods/pv-addon-broadcast-1.1.0.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/pv-addon-broadcast-1.1.0.jar",
+      "sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
+      "size": 58461
+    },
+    "mods/pv-addon-spectator-1.1.0.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/pv-addon-spectator-1.1.0.jar",
+      "sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
+      "size": 13188
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/mods/worldedit-mod-7.3.8.jar",
+      "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "size": 6222854
+    },
+    "config/drippyloadingscreen/options.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/drippyloadingscreen/options.txt",
+      "sha256": "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5",
+      "size": 162
+    },
+    "config/fabric/indigo-renderer.properties": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fabric/indigo-renderer.properties",
+      "sha256": "b98f1059904c344e733e3549cbbea9879638773457f389f07d0b4cef4c3b88b1",
+      "size": 290
+    },
+    "config/fancymenu/customizablemenus.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/customizablemenus.txt",
+      "sha256": "0a347ead6dd80200d24289fd74be5debd67b01b54467c3d563b8701075a51297",
+      "size": 157
+    },
+    "config/fancymenu/custom_gui_screens.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/custom_gui_screens.txt",
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "size": 51
+    },
+    "config/fancymenu/legacy_checklist.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42
+    },
+    "config/fancymenu/normalized_scroll_screens.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/normalized_scroll_screens.json",
+      "sha256": "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1",
+      "size": 27
+    },
+    "config/fancymenu/options.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/options.txt",
+      "sha256": "66428126256395eb97090e6337309610a51cc7d2f09d6ccd367882bbde6f1173",
+      "size": 2148
+    },
+    "config/fancymenu/user_variables.db": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/user_variables.db",
+      "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "size": 23
+    },
+    "config/fancymenu/video_element_controller_metas.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/video_element_controller_metas.json",
+      "sha256": "9fd0487f7ad569677ba9206040e2b4ba00fcc28608a5705ff4c4bddf47c833fa",
+      "size": 101
+    },
+    "config/fancymenu/assets/allio.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/allio.png",
+      "sha256": "4c72842f1047d7c55ed1a253e07a14b986428059d48e585ee727bf2208373b45",
+      "size": 100914
+    },
+    "config/fancymenu/assets/back.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/back.png",
+      "sha256": "62991c7dfa2c1ca8bdd04d2d08bbe43b6eb5c29d4be74a10e33c9e44409bb8a6",
+      "size": 1589
+    },
+    "config/fancymenu/assets/backhover.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/backhover.png",
+      "sha256": "90ef77a32b1120d77d80c17581b10ffd4d6832bc54362f83dc5125d1c6b5257c",
+      "size": 1470
+    },
+    "config/fancymenu/assets/backroup.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/backroup.png",
+      "sha256": "ac2b96d8d42e0d709e4f334a53bb7467ccdf6c5aa1a98dd52d7a47fca6fdd9b4",
+      "size": 1513092
+    },
+    "config/fancymenu/assets/bahg.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/bahg.png",
+      "sha256": "b96dd1d0ba305c183ea80f5a9ead39ea906b91ed4822869b195e8da43409273b",
+      "size": 960437
+    },
+    "config/fancymenu/assets/desconectar.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/desconectar.png",
+      "sha256": "5d53dc906cb54b27929f1eb3c6eabf7fd50047dab59c0b8fdfd759b10291adda",
+      "size": 1262
+    },
+    "config/fancymenu/assets/desconectarhover.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/desconectarhover.png",
+      "sha256": "09c55bfa83b8c07b43ec32006cebcf4d6f74cfa2bf5a8e04cb4a7623a457cb7f",
+      "size": 1180
+    },
+    "config/fancymenu/assets/fondo.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/fondo.png",
+      "sha256": "84060964bc0957847c8b03f32a6f7d7c2e9eebd6232645f1b4690ecc3198551b",
+      "size": 7812
+    },
+    "config/fancymenu/assets/jugar.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/jugar.png",
+      "sha256": "b7e2a0e6aa9547b16fd1c8a2e4c1a6a4d3713be32d428ffeee11987829e84a48",
+      "size": 794
+    },
+    "config/fancymenu/assets/leave.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/leave.png",
+      "sha256": "c3c54ae6fd3a5c9e0508c95e95e4b6f334bfa301925d181ea9db4ffc6e8db65a",
+      "size": 819
+    },
+    "config/fancymenu/assets/leavehover.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/leavehover.png",
+      "sha256": "a268fd9176a08a808e97379483f9f8807f080aecdbb6c8d279fea2b97c304705",
+      "size": 791
+    },
+    "config/fancymenu/assets/logosquid.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/logosquid.png",
+      "sha256": "c1ca8bf8a40b63c4690773a4252e1e4dfb721dcf6ef3e57978b3f3c23d03db89",
+      "size": 161021
+    },
+    "config/fancymenu/assets/mac.icns": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/mac.icns",
+      "sha256": "6e29ac7efd6756d6cb9544372da0dc55fb166f766da398289f7955e27ebc1c5a",
+      "size": 148930
+    },
+    "config/fancymenu/assets/opcioneshoer.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/opcioneshoer.png",
+      "sha256": "e8279cefe0a2a0aee707af6275da9bbc6693a273bd07ed33c6318ec18074b55d",
+      "size": 1030
+    },
+    "config/fancymenu/assets/optiones.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/optiones.png",
+      "sha256": "8e9b45bae692fe903d41aef3ad490777e16b36cbdaa25f889bb4da2ada68e40e",
+      "size": 1080
+    },
+    "config/fancymenu/assets/options.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/options.png",
+      "sha256": "3f72846f86e095c33f03accfb380a2deaa7ca5d291585de6b6379a840eb03948",
+      "size": 1027
+    },
+    "config/fancymenu/assets/optionshover.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/optionshover.png",
+      "sha256": "03eb334524e7ba84634f9495f6ac0315110584c67fff250a9b81ff3b49baa305",
+      "size": 980
+    },
+    "config/fancymenu/assets/playhover.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/playhover.png",
+      "sha256": "b51d7261ab6c3917e4a9cf626d2db377505f04c2689ff524b054107d17dcee78",
+      "size": 756
+    },
+    "config/fancymenu/assets/salir.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/salir.png",
+      "sha256": "945afe3a56e74f4098aa3e158f7b19e2207efb55cd43d9baeebc1e04389caefc",
+      "size": 788
+    },
+    "config/fancymenu/assets/salirhover.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/salirhover.png",
+      "sha256": "49edb38526fc6cfec1781d140992647be129a6a45347e6eccc05884af47d3cdf",
+      "size": 762
+    },
+    "config/fancymenu/assets/squid.icns": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/squid.icns",
+      "sha256": "10487ddf3913a7df901903ffaad56b6bc9bbbcb332924bfd8b2356f15d84d4fd",
+      "size": 100125
+    },
+    "config/fancymenu/assets/squid.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/squid.png",
+      "sha256": "0822b28ccc838a7246d2d4067507d76b93aabace7f1d1ec240a44d776026ec12",
+      "size": 78563
+    },
+    "config/fancymenu/assets/squid16.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/squid16.png",
+      "sha256": "c225c7d732a1930444bcf233ff16e69aa1045982682c645db2b8c4310ca365f4",
+      "size": 2839
+    },
+    "config/fancymenu/assets/squid32.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/assets/squid32.png",
+      "sha256": "4dfae84265cb30bb714e707a63b2615a873b22e28d1f24579251bdbac2c8539b",
+      "size": 2022
+    },
+    "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "sha256": "5aa0de80d86d211d5b3ffabd2adb15753e7858680752c86707bc14f01d6f98da",
+      "size": 6462
+    },
+    "config/fancymenu/customization/hardcoreme.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/customization/hardcoreme.txt",
+      "sha256": "c19ede63655a2936f9cc581b89d670a83b76da2e1e59b7dff053233bdb9391b8",
+      "size": 30281
+    },
+    "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/customization/pause_screen_hardocrebetrat.txt",
+      "sha256": "56be938f65ca230f63cf0e6653026a18d738c489912f3a6b6703c63aac4f58fe",
+      "size": 24199
+    },
+    "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha256": "ca023e4d1b0a646e360dfb93f92bc26ae51f37d7d217509e6f965fe2c876e1c6",
+      "size": 198
+    },
+    "config/fancymenu/ui_themes/dark.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/ui_themes/dark.json",
+      "sha256": "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+      "size": 4133
+    },
+    "config/fancymenu/ui_themes/light.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/fancymenu/ui_themes/light.json",
+      "sha256": "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "size": 4135
+    },
+    "config/jade/hide-blocks.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/hide-blocks.json",
+      "sha256": "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa",
+      "size": 149
+    },
+    "config/jade/hide-entities.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/hide-entities.json",
+      "sha256": "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709",
+      "size": 243
+    },
+    "config/jade/hide-mob-effects.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/hide-mob-effects.json",
+      "sha256": "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9",
+      "size": 132
+    },
+    "config/jade/jade.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/jade.json",
+      "sha256": "a8e508de313448a9dd6ac07bb8fa85a24819e62eac46f2efca4a04a53203ae21",
+      "size": 3633
+    },
+    "config/jade/server-plugin-overrides.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/server-plugin-overrides.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2
+    },
+    "config/jade/sort-order.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/sort-order.json",
+      "sha256": "c0235d429020dce0cd44eb11e34a728f83e8416ef5b61bd9607af370e963ad6c",
+      "size": 2074
+    },
+    "config/jade/profiles/1/jade.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/profiles/1/jade.json",
+      "sha256": "2e8c2572c1df12ca4f150244f5de004f25c8ad6c3be039c3f10c9f47ae255e3e",
+      "size": 3359
+    },
+    "config/jade/profiles/2/jade.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/profiles/2/jade.json",
+      "sha256": "002297a25064edf501199d18d6b342037b991d0304fdbf4671640ca92dc1719e",
+      "size": 3368
+    },
+    "config/jade/profiles/3/jade.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/jade/profiles/3/jade.json",
+      "sha256": "01bd23c0a15cd378b7e69f79264a8bf5f3f5b1d747f11519e498438c8a091b91",
+      "size": 3311
+    },
+    "config/konkrete/locals/de_de.local": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/konkrete/locals/de_de.local",
+      "sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "size": 369
+    },
+    "config/konkrete/locals/en_us.local": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/konkrete/locals/en_us.local",
+      "sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "size": 426
+    },
+    "config/konkrete/locals/pl_pl.local": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/konkrete/locals/pl_pl.local",
+      "sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "size": 313
+    },
+    "config/konkrete/locals/pt_br.local": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/konkrete/locals/pt_br.local",
+      "sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "size": 322
+    },
+    "config/plasmovoice/client.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/client.toml",
+      "sha256": "e2ee4df604da1e3a0409859237d70bbd5b2137b01de538d23e2662e4d9753fd3",
+      "size": 1557
+    },
+    "config/plasmovoice/meta_cache.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/meta_cache.json",
+      "sha256": "a4b03f20a0cafcd5c9679aba526c9bd166ae7f3daf4e4867f5b8022726d7675f",
+      "size": 1309
+    },
+    "config/plasmovoice/.crowdin/de_de.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/de_de.json",
+      "sha256": "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d",
+      "size": 8510
+    },
+    "config/plasmovoice/.crowdin/es_es.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/es_es.json",
+      "sha256": "bcd62f8b59b77ed388231cbd6cd479f58aa82309788ba2a26410cb21e514adfa",
+      "size": 9115
+    },
+    "config/plasmovoice/.crowdin/fr_fr.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/fr_fr.json",
+      "sha256": "6c2e91b1a964e5dd4511702fd554ac8094c4f862ab4679b7dbd54af18c128db0",
+      "size": 9154
+    },
+    "config/plasmovoice/.crowdin/he_il.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/he_il.json",
+      "sha256": "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29",
+      "size": 9290
+    },
+    "config/plasmovoice/.crowdin/ja_jp.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/ja_jp.json",
+      "sha256": "0db355eb21a7795e9e57bb94ae925a28efdbdec49b0704476dcf9c9dc2ed5566",
+      "size": 9467
+    },
+    "config/plasmovoice/.crowdin/ko_kr.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/ko_kr.json",
+      "sha256": "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346",
+      "size": 9208
+    },
+    "config/plasmovoice/.crowdin/pl_pl.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/pl_pl.json",
+      "sha256": "62a43c9f3d46b1e1630b1988ee07413139da25a57dc49265b8cc9450cbae0cfb",
+      "size": 8890
+    },
+    "config/plasmovoice/.crowdin/pt_br.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/pt_br.json",
+      "sha256": "b0e75ebd3798bdbe416ffb3ea3ac0bda766e3bcf92864821bab5a1f34e434a18",
+      "size": 9046
+    },
+    "config/plasmovoice/.crowdin/ru_ru.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/ru_ru.json",
+      "sha256": "d968868df22341f8b07a1b35c2dbbeaee2c14a866037a00fdd6a0521b9d0e01b",
+      "size": 11446
+    },
+    "config/plasmovoice/.crowdin/timestamp": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/timestamp",
+      "sha256": "4cb3a8ba90d8ba4ddc033e31e7b1122f99066d510222bec9b6deaa5abda179f6",
+      "size": 13
+    },
+    "config/plasmovoice/.crowdin/tt_ru.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/tt_ru.json",
+      "sha256": "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157",
+      "size": 11312
+    },
+    "config/plasmovoice/.crowdin/uk_ua.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/uk_ua.json",
+      "sha256": "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60",
+      "size": 10828
+    },
+    "config/plasmovoice/.crowdin/zh_cn.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/zh_cn.json",
+      "sha256": "b92d52b8ffbc46de6da360f5a785bc920cfc3c3885de6f373257110fc3ebc94c",
+      "size": 8123
+    },
+    "config/plasmovoice/.crowdin/zh_tw.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/.crowdin/zh_tw.json",
+      "sha256": "2800e6b4b1c3a9bb5179f1aeeb0093ff4ce6e5d751930285ccdf20067cb5e92b",
+      "size": 7637
+    },
+    "config/plasmovoice/server/config.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/config.toml",
+      "sha256": "6efea6497eb53a8cf0dd60991b770c2ff61fa1e3f811c33fb3bea796bb3e931a",
+      "size": 1476
+    },
+    "config/plasmovoice/server/voice_mutes.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/voice_mutes.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2
+    },
+    "config/plasmovoice/server/languages/de_de.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/de_de.toml",
+      "sha256": "5fab84ae2943f5819c069a71fd5faf035687ee73d333594d4a182becb2991cdd",
+      "size": 2175
+    },
+    "config/plasmovoice/server/languages/en_us.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/en_us.toml",
+      "sha256": "b4eb4a30d43b10ad57566051be35d408e69ee1c0e4edde9fd13aee2aa539d2b4",
+      "size": 1892
+    },
+    "config/plasmovoice/server/languages/es_es.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/es_es.toml",
+      "sha256": "43293ff728f7d51e04fd03feee488d96c0a7acd22b09770e7c355708e18904db",
+      "size": 2111
+    },
+    "config/plasmovoice/server/languages/fr_fr.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/fr_fr.toml",
+      "sha256": "166f9026787ff4415553dc05d62064f023d4e5ce3abe2a970a2aee5d740eac82",
+      "size": 2087
+    },
+    "config/plasmovoice/server/languages/he_il.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/he_il.toml",
+      "sha256": "4f18bcdde7e363bb5602b376d3f22bb35939fc22b643e13fb50b7175fb744745",
+      "size": 2216
+    },
+    "config/plasmovoice/server/languages/ja_jp.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/ja_jp.toml",
+      "sha256": "3902696f104d745f0c0b5d839b78627dc85d3c265edef48e78731b52591d21f2",
+      "size": 2496
+    },
+    "config/plasmovoice/server/languages/ko_kr.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/ko_kr.toml",
+      "sha256": "70fcca1ff0c16d153e138adaecb50936b1135b51a14ab2d1ef9095f6822201dc",
+      "size": 2344
+    },
+    "config/plasmovoice/server/languages/pl_pl.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/pl_pl.toml",
+      "sha256": "90af215fafb781bc4595d3e2a9ab89f607a4366cbf7b4d254d0fcdc7bbc0c600",
+      "size": 2028
+    },
+    "config/plasmovoice/server/languages/pt_br.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/pt_br.toml",
+      "sha256": "bae94d4755ebf39bf67d66eea29a9de2efd6055c376852650545cee55d53b3a6",
+      "size": 2023
+    },
+    "config/plasmovoice/server/languages/ru_ru.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/ru_ru.toml",
+      "sha256": "994f9412958c1cd8d42b9f76d839dfb4d580207874189e77aaad5ba637c209d4",
+      "size": 2519
+    },
+    "config/plasmovoice/server/languages/tr_tr.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/tr_tr.toml",
+      "sha256": "27394209d5172c82fe9f96ff501bf81d664d6c698d2b6ed8ea9aa747e13f8730",
+      "size": 820
+    },
+    "config/plasmovoice/server/languages/tt_ru.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/tt_ru.toml",
+      "sha256": "f56f3177f4fc5a7defe21e457cf3182a0756d9f227b8a748506a43a432c103df",
+      "size": 2901
+    },
+    "config/plasmovoice/server/languages/uk_ua.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/uk_ua.toml",
+      "sha256": "ff426bcfb1823621d326e604763e3670e830a4ab5aad634b42c9bdf3c886b168",
+      "size": 2718
+    },
+    "config/plasmovoice/server/languages/zh_cn.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/zh_cn.toml",
+      "sha256": "e68579cdc2d4d6c311c066773b46468f18557544b182a72a31b419c81a14c003",
+      "size": 1870
+    },
+    "config/plasmovoice/server/languages/zh_tw.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/zh_tw.toml",
+      "sha256": "f9b4f90a2f1cdd5e32fa1f718e33054017856fe806e767520b809aa67942dd23",
+      "size": 1867
+    },
+    "config/plasmovoice/server/languages/.crowdin/de_de.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/de_de.toml",
+      "sha256": "29fab82d4a3280d63e9df7a0f02473b0098f3b5312979ea61aaf8f4b187eaa19",
+      "size": 2187
+    },
+    "config/plasmovoice/server/languages/.crowdin/es_es.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/es_es.toml",
+      "sha256": "f434de429907bd810d018ba0db4584eb63f3a1dfbd8fa0d374ca8342416a0017",
+      "size": 2123
+    },
+    "config/plasmovoice/server/languages/.crowdin/fr_fr.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+      "sha256": "59931182a23c8691011180014ab5cdf8d676a64d129b55175a8521e24d67ffb7",
+      "size": 2099
+    },
+    "config/plasmovoice/server/languages/.crowdin/he_il.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/he_il.toml",
+      "sha256": "fa6fded3bbb26f21f9e7ef521370c6d4ce368529cbe927eee741467e75e04817",
+      "size": 2228
+    },
+    "config/plasmovoice/server/languages/.crowdin/ja_jp.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+      "sha256": "1f83c01943a55663177bdb991a7b1bcef23450f2996467f70f51ca4b8c72dd0b",
+      "size": 2508
+    },
+    "config/plasmovoice/server/languages/.crowdin/ko_kr.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+      "sha256": "df06537abcd1e218d48357beec47441cc43c3dcf2c318bfd22b921244d81fa0d",
+      "size": 2356
+    },
+    "config/plasmovoice/server/languages/.crowdin/pl_pl.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+      "sha256": "06196ef2e05c14f360d561e08ac5ebf9ef89272161b6ce382c312bece82196af",
+      "size": 2040
+    },
+    "config/plasmovoice/server/languages/.crowdin/pt_br.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+      "sha256": "a3931d10e96140e381350850744c702cc9d7c1a4aac264dd996e2a21a8144aee",
+      "size": 2035
+    },
+    "config/plasmovoice/server/languages/.crowdin/ru_ru.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+      "sha256": "c0c45c94a604050a478cbb63a77ab1167122a5b52f53564da1165243cfacf643",
+      "size": 2531
+    },
+    "config/plasmovoice/server/languages/.crowdin/timestamp": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/timestamp",
+      "sha256": "ce6ab52d3531ea95430056640eba6bb4a608525630845a3336ae616b537b871c",
+      "size": 13
+    },
+    "config/plasmovoice/server/languages/.crowdin/tr_tr.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+      "sha256": "912de4e7a4cc3224eccb6eb5e72314c3ce0b71c7b90ba0465c14bd716202e943",
+      "size": 825
+    },
+    "config/plasmovoice/server/languages/.crowdin/tt_ru.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+      "sha256": "4381a87ef626fa46045c8322e8431d902eb8bb9ff4f4fbbbc546e65a17975844",
+      "size": 2913
+    },
+    "config/plasmovoice/server/languages/.crowdin/uk_ua.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+      "sha256": "1f9cafc386ca07036f9dc4cb84175fe0d222111db44a74dd9043981dbe02a102",
+      "size": 2730
+    },
+    "config/plasmovoice/server/languages/.crowdin/zh_cn.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+      "sha256": "503c383b6921681dbc7c2896cea946ded969d4d62ab2f439bd7ffb33f1d24310",
+      "size": 1882
+    },
+    "config/plasmovoice/server/languages/.crowdin/zh_tw.toml": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+      "sha256": "cb5ad0855fe3bf0a298de8d02e6e91d76c9c4e3a21ab206297c71b745eb1cfc7",
+      "size": 1879
+    },
+    "config/worldedit/worldedit.properties": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/config/worldedit/worldedit.properties",
+      "sha256": "8b8e623b7a82c419b34ace486e7730a9997cfe8c07693b5a66242f6f1d84de47",
+      "size": 2545
+    },
+    "resourcepacks/SquidGame_ResourcePack/pack.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/pack.mcmeta",
+      "sha256": "db7b65960043c506779f9d7d1e8f67701e77911ba1f626609525b1cb95be51da",
+      "size": 95
+    },
+    "resourcepacks/SquidGame_ResourcePack/pack.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/pack.png",
+      "sha256": "6386365b7dc25ab1e478b8bb1c4192da358716c63be6f15581a3011a82d3bb31",
+      "size": 29634
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/sounds.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/sounds.json",
+      "sha256": "706423253ee0c3508337bcecd5ae88386541f9702a401c84b74e700b5597e385",
+      "size": 156
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/lang/en_us.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/lang/en_us.json",
+      "sha256": "dd13433e76e04aae625c3b4d859d2c1bf236e4c9636b491d16f37aa017a8813a",
+      "size": 341
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/lang/es_es.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/lang/es_es.json",
+      "sha256": "b61ffea83b5b8141876748d67df3cf662ef0b1d9c7e18a002889ba7fb6fc6e19",
+      "size": 351
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/lang/es_mx.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/lang/es_mx.json",
+      "sha256": "ecae11dc7e83ba191f480f38363ad757510f7e99b554d7adfb5216fa7b52ab2e",
+      "size": 355
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/models/item/creeper_head.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/models/item/creeper_head.json",
+      "sha256": "4e63253998166d1377fbbd74f800c6848fe8518420b1cf34e31eed233357b17d",
+      "size": 51
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/models/item/player_head.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/models/item/player_head.json",
+      "sha256": "4e63253998166d1377fbbd74f800c6848fe8518420b1cf34e31eed233357b17d",
+      "size": 51
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/models/item/zombie_head.json": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/models/item/zombie_head.json",
+      "sha256": "4e63253998166d1377fbbd74f800c6848fe8518420b1cf34e31eed233357b17d",
+      "size": 51
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/acacia_planks.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/acacia_planks.png",
+      "sha256": "1ec02c8f348163fd65d081ddea2d640dce186caf5116553c44450c223f71d4da",
+      "size": 82
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/acacia_trapdoor.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/acacia_trapdoor.png",
+      "sha256": "1f40d2e334576f55b1df43bdfa4ce2eef0d8efa51f028e9cad9efafcbebf128a",
+      "size": 82
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_bottom.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_bottom.png",
+      "sha256": "a0796420c62f35e4645b686b093aa178bdefa9c901e1b5f609162169ada10ede",
+      "size": 243
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_side.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_side.png",
+      "sha256": "a0796420c62f35e4645b686b093aa178bdefa9c901e1b5f609162169ada10ede",
+      "size": 243
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_top.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_top.png",
+      "sha256": "1c4dff244ad67ccb0e5ed6de2ac020fbe2587b667e73bd9c17ca532d53634da1",
+      "size": 157
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/blackstone.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/blackstone.png",
+      "sha256": "d99d8c3f42a4fa779b3552309b8aed1aacc9b3b3d161d2bc53d555e69384c3a2",
+      "size": 345
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/chiseled_polished_blackstone.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/chiseled_polished_blackstone.png",
+      "sha256": "a5b59721647922ebef4148b3bcfd37d3d4bc2b0f959eaea42cec9a55608cec11",
+      "size": 393
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/coal_ore.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/coal_ore.png",
+      "sha256": "a991611f86a023939763b9b9438568b1d347cce105539f3c7185037fcf292b32",
+      "size": 613
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/concrete_yellow.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/concrete_yellow.png",
+      "sha256": "7b31fb05371c95407be9d20a0ef6de6d834c6d8e057ae7e91799ff92b0407ef0",
+      "size": 82
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/copper_ore.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/copper_ore.png",
+      "sha256": "3ad6bba8dce8ac1d6f2decb5ab994609e5234b392290857b507a5f3d96623378",
+      "size": 131
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/creeper_head.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/creeper_head.png",
+      "sha256": "3409918d8a8b37a25e64d62b7c1d4d735ab356c29e81062ce69bcca7085518c5",
+      "size": 3691
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_door_bottom.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_door_bottom.png",
+      "sha256": "96ea35c63e5f10f5e029e5bb0d64e9f3f8ad157bd4e987eb8d2c3b5963239fed",
+      "size": 183
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_door_top.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_door_top.png",
+      "sha256": "6fc530a8a31c79d4a40e66f8736f29e5756df851387d8528d6123627b9a7fdaf",
+      "size": 191
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_planks.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_planks.png",
+      "sha256": "1f40d2e334576f55b1df43bdfa4ce2eef0d8efa51f028e9cad9efafcbebf128a",
+      "size": 82
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_trapdoor.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/crimson_trapdoor.png",
+      "sha256": "1f40d2e334576f55b1df43bdfa4ce2eef0d8efa51f028e9cad9efafcbebf128a",
+      "size": 82
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dark_oak_door_bottom.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dark_oak_door_bottom.png",
+      "sha256": "985a45a9991e6221cd0f1b22238a134ef93bdee2774f695f3d04b2e805f231be",
+      "size": 219
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dark_oak_door_top.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dark_oak_door_top.png",
+      "sha256": "c75fd812060ad17f6ddd54a271efee4070b0a9a1400c60b8a3ba7752b1e867cd",
+      "size": 229
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dark_oak_trapdoor.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dark_oak_trapdoor.png",
+      "sha256": "bb40b58826018cc84507f85d2a9eaeb139dce15a97ca995b3215242917a4e284",
+      "size": 367
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dead_bubble_coral_block.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dead_bubble_coral_block.png",
+      "sha256": "5b86e5cf4ebe1a31892b47eed0eb26551741ee2f8082a13930a1c45ed6ba3e35",
+      "size": 428
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dead_fire_coral_block.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dead_fire_coral_block.png",
+      "sha256": "5b8ff7161b8674d11be4885f907036dc8ffa9d1ee01acf16c780323a2e335782",
+      "size": 412
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dead_tube_coral_block.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dead_tube_coral_block.png",
+      "sha256": "9aa97478c018a5b27fa69bacbfda957d70e1c2e10e92a7d479d852d54fe8744e",
+      "size": 437
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/deepslate_copper_ore.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/deepslate_copper_ore.png",
+      "sha256": "ef3ffa464d34905207c83cfd4e49290bf40c2a198790e372b3717005e991a4e0",
+      "size": 102
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/deepslate_diamond_ore.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/deepslate_diamond_ore.png",
+      "sha256": "d0bd8cb1ed7dc0e599ecce9e2b0743ed85d1a7d6ce89d3534f72ed0c59e433a2",
+      "size": 374
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/deepslate_emerald_ore.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/deepslate_emerald_ore.png",
+      "sha256": "e2d1dc545482dcd2c976e3e2709280373ed67dd6b1ddd0ae2a9733407671ab59",
+      "size": 479
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/diamond_block.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/diamond_block.png",
+      "sha256": "3626fa03a13a7f267235c8fbf33cceba1b76bdd52008bf720f6f2f303deb070d",
+      "size": 321
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dried_kelp_side.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dried_kelp_side.png",
+      "sha256": "8f1ca4de2be29468251264bf0b27d6cbc619bf27dab419854dee1b87691f19be",
+      "size": 334
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dried_kelp_top.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/dried_kelp_top.png",
+      "sha256": "8f1ca4de2be29468251264bf0b27d6cbc619bf27dab419854dee1b87691f19be",
+      "size": 334
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/glowstone.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/glowstone.png",
+      "sha256": "83bf93d5524fcc0c4f1d690f87e7716cf292774eaf5a3dea5e8adf519c363452",
+      "size": 256
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/granite.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/granite.png",
+      "sha256": "4845cd44faec2a5ef4c535bba712c7f982beb5c97a0f209b913469dc2dbd55b1",
+      "size": 541
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_planks.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_planks.png",
+      "sha256": "9b7f9a05166ae62d0a0f1c21e3066e6c2bd869011c3ca1255b139cd0d7c95c88",
+      "size": 428
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_trapdoor.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_trapdoor.png",
+      "sha256": "bb40b58826018cc84507f85d2a9eaeb139dce15a97ca995b3215242917a4e284",
+      "size": 367
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/kelp.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/kelp.png",
+      "sha256": "8f1ca4de2be29468251264bf0b27d6cbc619bf27dab419854dee1b87691f19be",
+      "size": 334
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/lime_terracotta.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/lime_terracotta.png",
+      "sha256": "49d9d5b3038f0916c2842dd92695f63c8fde295db7f6c7e4ae8402a94bc17bb1",
+      "size": 82
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/oak_trapdoor.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/oak_trapdoor.png",
+      "sha256": "ea7a8201bb16a7ca9fb8d58c78ea184f69ae3626a7d5ba440c1e20f83bab9737",
+      "size": 112
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/oxidized_copper.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/oxidized_copper.png",
+      "sha256": "b4810ed417a79c52caea48e961727500e6ac089586ad08f197670be4751e56c7",
+      "size": 116
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/player_head.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/player_head.png",
+      "sha256": "6f4a07137d6b4c34685b3dd758ad937619242ca7320a29c7b9ffa84ab4e9be90",
+      "size": 1922
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/polished_andesite.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/polished_andesite.png",
+      "sha256": "49c63b00a684ed3c94876821d53d6e85a2e13faf84d23c6385912bf1770caf10",
+      "size": 292
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/polished_blackstone_bricks.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/polished_blackstone_bricks.png",
+      "sha256": "7343766422d10cc2d69643d1c0c3161c2463958270ca826c5920dbca306dd037",
+      "size": 347
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/polished_diorite.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/polished_diorite.png",
+      "sha256": "928472ab843025677cfa56511dda1ca3c1147bf1e35e9c843e49489fea3764f3",
+      "size": 99
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/prismarine_bricks.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/prismarine_bricks.png",
+      "sha256": "79761bf092e1bb04cf0184bd1cb62da7bf3c0ac23a6ae5ca90ae8e2ed8c57f09",
+      "size": 767
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/quartz_block.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/quartz_block.png",
+      "sha256": "91a3ac5981044bd2c5c783d10bf7bbe22cf3df9c0fec1078351c3055dbf5f359",
+      "size": 305
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/quartz_block_bottom.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/quartz_block_bottom.png",
+      "sha256": "91a3ac5981044bd2c5c783d10bf7bbe22cf3df9c0fec1078351c3055dbf5f359",
+      "size": 305
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/quartz_block_top.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/quartz_block_top.png",
+      "sha256": "91a3ac5981044bd2c5c783d10bf7bbe22cf3df9c0fec1078351c3055dbf5f359",
+      "size": 305
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/raw_copper_block.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/raw_copper_block.png",
+      "sha256": "88c65a37ccde5279cb5544ef85167a02798569ba16d984c41cddc37d1b7724ac",
+      "size": 117
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/smooth_stone.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/smooth_stone.png",
+      "sha256": "6498c843ce8a771aa32ecd2fb2c9872914abd43839ffbce758be361d4ac3193a",
+      "size": 440
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/stone.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/stone.png",
+      "sha256": "79761bf092e1bb04cf0184bd1cb62da7bf3c0ac23a6ae5ca90ae8e2ed8c57f09",
+      "size": 767
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/warped_planks.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/warped_planks.png",
+      "sha256": "bb40b58826018cc84507f85d2a9eaeb139dce15a97ca995b3215242917a4e284",
+      "size": 367
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/warped_trapdoor.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/warped_trapdoor.png",
+      "sha256": "cfd808c88f69382db3ce5f696841f2085c52acbd863a98bbbf5ad24a810fe4b6",
+      "size": 416
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/white_concrete.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/white_concrete.png",
+      "sha256": "928472ab843025677cfa56511dda1ca3c1147bf1e35e9c843e49489fea3764f3",
+      "size": 99
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/yellow_concrete.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/yellow_concrete.png",
+      "sha256": "7e55b013c250d4695189ace51adfddf462ec43a72764bdccffe29e955478b2b7",
+      "size": 104
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/zombie_head.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/zombie_head.png",
+      "sha256": "39581bc39276c6b74ee72c5b838f5fff2f4a38636871bbd9cb7b0f077378b212",
+      "size": 3702
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/copper.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/copper.png",
+      "sha256": "23661dd10c954e80d7cb3f5e3e8195ce15025c55d0b6b366a37f52ac6bcabe78",
+      "size": 1714
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/copper_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/copper_boots.png",
+      "sha256": "23661dd10c954e80d7cb3f5e3e8195ce15025c55d0b6b366a37f52ac6bcabe78",
+      "size": 1714
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/copper_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/copper_chestplate.png",
+      "sha256": "23661dd10c954e80d7cb3f5e3e8195ce15025c55d0b6b366a37f52ac6bcabe78",
+      "size": 1714
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/diamond.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/diamond.png",
+      "sha256": "8431be27316519c76258652214f8cf97c090d976080ec431f1d048981294c1d1",
+      "size": 1056
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/diamond_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/diamond_boots.png",
+      "sha256": "8431be27316519c76258652214f8cf97c090d976080ec431f1d048981294c1d1",
+      "size": 1056
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/diamond_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/diamond_chestplate.png",
+      "sha256": "8431be27316519c76258652214f8cf97c090d976080ec431f1d048981294c1d1",
+      "size": 1056
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/gold.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/gold.png",
+      "sha256": "1285ec37eb10791d18d04003e3ecf38d72532701cfe0203a6f649a484e740e71",
+      "size": 909
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/gold_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/gold_boots.png",
+      "sha256": "1285ec37eb10791d18d04003e3ecf38d72532701cfe0203a6f649a484e740e71",
+      "size": 909
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/gold_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/gold_chestplate.png",
+      "sha256": "1285ec37eb10791d18d04003e3ecf38d72532701cfe0203a6f649a484e740e71",
+      "size": 909
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/iron.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/iron.png",
+      "sha256": "fb87fc655ecfcba4479c57bb54bc802975191191f2b282942bf7cdeba11790aa",
+      "size": 1084
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/iron_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/iron_chestplate.png",
+      "sha256": "fb87fc655ecfcba4479c57bb54bc802975191191f2b282942bf7cdeba11790aa",
+      "size": 1084
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/iton_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/entity/equipment/humanoid/iton_boots.png",
+      "sha256": "fb87fc655ecfcba4479c57bb54bc802975191191f2b282942bf7cdeba11790aa",
+      "size": 1084
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/footer_separator.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/footer_separator.png",
+      "sha256": "2636b52ae6b6c9c30e34078c729ba257d8f7275bd45e0c988557246553c109e6",
+      "size": 131
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/header_separator.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/header_separator.png",
+      "sha256": "327419fbd80c7655fc04f5487ed8e9b3838b485e2509e4c8ee92e6418afd4b1a",
+      "size": 131
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/light_dirt_background.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/light_dirt_background.png",
+      "sha256": "91a3ac5981044bd2c5c783d10bf7bbe22cf3df9c0fec1078351c3055dbf5f359",
+      "size": 305
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/menu_background.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/menu_background.png",
+      "sha256": "91a3ac5981044bd2c5c783d10bf7bbe22cf3df9c0fec1078351c3055dbf5f359",
+      "size": 305
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/options_background.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/options_background.png",
+      "sha256": "91a3ac5981044bd2c5c783d10bf7bbe22cf3df9c0fec1078351c3055dbf5f359",
+      "size": 305
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/tab_button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/tab_button.png",
+      "sha256": "f8f337f67f1ce526528e43974852b4edd3400fb59c2c428b8136c6d2b8ee5e2e",
+      "size": 653
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/backing_color.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/backing_color.png",
+      "sha256": "1b717c9c7757a336053aed9ccbed0ff2e839c1ee4edbf65807d418c0038c2f52",
+      "size": 135
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/backing_color_notes.txt": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/backing_color_notes.txt",
+      "sha256": "442b0beb3a3a57c34e5f561e24cf5af5cac04c745ae4441a2f465bce6e1c45ad",
+      "size": 50
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/hud/hotbar_selection.png",
+      "sha256": "f8433606247ca2d807543337d72e9f97466788c967b937a20709157b16e847d1",
+      "size": 701
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/mute_button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/mute_button.png",
+      "sha256": "e8aea000a50ee25e7b7e62593aaae57b6cf4d365be45ccbcff681c24c499be29",
+      "size": 421
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/mute_button_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/mute_button_highlighted.png",
+      "sha256": "fa8115dcc994f7acaa31cc4dbe78aef6b90eacacf5a01e665c3b922e932d6d5b",
+      "size": 423
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/report_button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/report_button.png",
+      "sha256": "6f9316476da02ec6f6ca759094e5a1767d033b75447ac29b1e954bd0c570fdc8",
+      "size": 454
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/report_button_disabled.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/report_button_disabled.png",
+      "sha256": "432aacf70239d45613540f9eff829884ae9ca5758a04c91edb450cb28872866e",
+      "size": 339
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/report_button_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/report_button_highlighted.png",
+      "sha256": "ab08bf84d974d78436139e6a33fea563f342b6b8d30baa50d2fb511abbab9263",
+      "size": 454
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/unmute_button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/unmute_button.png",
+      "sha256": "2f3891f694addb8249940832fc46d0a395314369182c08aa18314c4a083c4114",
+      "size": 432
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/unmute_button_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/social_interactions/unmute_button_highlighted.png",
+      "sha256": "05ff058f8b024f554f88ce4d6a8df27ac19f598cda6d012c73e4de90b8df18a3",
+      "size": 432
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button.png",
+      "sha256": "a5c583a8dee6ef190cfa9fab1d030a30675db9fff52cc859208eeb902e273d01",
+      "size": 2023
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta",
+      "sha256": "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505",
+      "size": 164
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_disabled.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_disabled.png",
+      "sha256": "912e87baf981f1a2bec6b70ca3b2c774865e660e80d2cbafae59b23a89682f82",
+      "size": 1444
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta",
+      "sha256": "d7dd31a632fe41be64e07ef0676b726e50f0af053e638742ec1f6f9550a1b7e5",
+      "size": 164
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png",
+      "sha256": "e6bcdc42dd8b69f8cd280cdb7e34be543a50a8886b46aa1fe0452e3c270d3463",
+      "size": 2023
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta",
+      "sha256": "c8f6fe62c01c357a814223d4ab6a368e5122c195fa2671e585fa24988557a505",
+      "size": 164
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox.png",
+      "sha256": "3fddf4d2b6ac91baafec508afa598495d45d0f998881ea5e3eca0fe0fd0bfcdc",
+      "size": 323
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox_highlighted.png",
+      "sha256": "9249b534b6cfcb489a7cf6f54d659ccde18694b3b2bdf69565674ab4adb02efd",
+      "size": 323
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox_selected.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox_selected.png",
+      "sha256": "a5becf0ab81a02c46c94897a26e72de3916dec53490685f83bf2d13d3b239406",
+      "size": 349
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox_selected_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/checkbox_selected_highlighted.png",
+      "sha256": "6cae51bad05a44391e5b5658944be877cbfc2e8e6c2000faf01112570a05b2b9",
+      "size": 343
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/locked_button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/locked_button.png",
+      "sha256": "babe4e35517af25307221a4cd3aa802b576bea85ba233d943e8d12645c3c3f98",
+      "size": 534
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/locked_button_disabled.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/locked_button_disabled.png",
+      "sha256": "1be99cff741a2034964619df45746d37084e21fd425e05cdf7b2b75a4691e418",
+      "size": 432
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/locked_button_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/locked_button_highlighted.png",
+      "sha256": "b303ab8c4c566b4cf573b0fecdc6ccf9d02aad1ea68af5e3797b63a5d3951b42",
+      "size": 538
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider.png",
+      "sha256": "912e87baf981f1a2bec6b70ca3b2c774865e660e80d2cbafae59b23a89682f82",
+      "size": 1444
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta",
+      "sha256": "d7dd31a632fe41be64e07ef0676b726e50f0af053e638742ec1f6f9550a1b7e5",
+      "size": 164
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle.png",
+      "sha256": "cbba0fd15ae28c71bc9bd59e3e362d7138e0acc6fcc7521a45ebbc4ac655379c",
+      "size": 294
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta",
+      "sha256": "e455ece745d4f9d34e477a20dc60f0899e769e7c4fbdf0c2b7a9ccfab615201c",
+      "size": 285
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png",
+      "sha256": "dffcfb658a4a3f407004d843ce6a5552181acece97c268634a199ea718f5f6d2",
+      "size": 294
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta",
+      "sha256": "e455ece745d4f9d34e477a20dc60f0899e769e7c4fbdf0c2b7a9ccfab615201c",
+      "size": 285
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png",
+      "sha256": "830482c6dc49bff147982cb81d61d2445b763813491a248214631d24b78cbfce",
+      "size": 1444
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta",
+      "sha256": "d7dd31a632fe41be64e07ef0676b726e50f0af053e638742ec1f6f9550a1b7e5",
+      "size": 164
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab.png",
+      "sha256": "fa5f6a9a642a36b59e6d6e9fd4e11e584f1eb141bd17dbb834ec32db4f78986d",
+      "size": 211
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab.png.mcmeta",
+      "sha256": "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b",
+      "size": 287
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png",
+      "sha256": "2e8abcd33b93f3bc6d0dd487f204360a227f1700717245a67ea446a734d550bb",
+      "size": 204
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_highlighted.png.mcmeta",
+      "sha256": "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b",
+      "size": 287
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected.png",
+      "sha256": "4f34de8d8f17f3e63ce26ffc2f14d4ce9f364c71eb725d831f4ee030485e57e1",
+      "size": 172
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected.png.mcmeta",
+      "sha256": "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b",
+      "size": 287
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png",
+      "sha256": "170e6d8e50e1e650d2385b07e65c208fcd5f018445bc71df1f2ab49585449b8e",
+      "size": 168
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta",
+      "sha256": "bb6923221c7e93cd8fc9cbabe4bdd77d581274904a89108bd985d4d6d2ac2c8b",
+      "size": 287
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/unlocked_button.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/unlocked_button.png",
+      "sha256": "463a9a6c8bf38a7ff87bc6df311748f91162e819056ff5c23d06bd240bf28a8c",
+      "size": 541
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png",
+      "sha256": "0f5e554537fde12ca78cf0de5efd8e133de895e15c248f207970cc9ffdf84bef",
+      "size": 433
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png",
+      "sha256": "d428f3e6f2ecddcc666248d0c3579029ab931214d1143594b01abfa97e91dd2d",
+      "size": 545
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/brick.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/brick.png",
+      "sha256": "4e01e8c43289df8668f9d3309359ee059a422c412c2122437608dd203598d894",
+      "size": 14989
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/diamond_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/diamond_boots.png",
+      "sha256": "1c9c437646456c92b56b574bc5b353a69c490e4431050c6420eea02d899d7f33",
+      "size": 245
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/diamond_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/diamond_chestplate.png",
+      "sha256": "1c9c437646456c92b56b574bc5b353a69c490e4431050c6420eea02d899d7f33",
+      "size": 245
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/golden_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/golden_boots.png",
+      "sha256": "a0f632eae9fdf84d5d6af2d19163dcfbc65ccca99709778e5cf859fafcc0974c",
+      "size": 287
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/golden_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/golden_chestplate.png",
+      "sha256": "a0f632eae9fdf84d5d6af2d19163dcfbc65ccca99709778e5cf859fafcc0974c",
+      "size": 287
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/iron_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/iron_boots.png",
+      "sha256": "bba7799f724d98d1c8f18df1d5ad8315b4b7569aba16dbcdf561b41e7615dd65",
+      "size": 385
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/iron_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/iron_chestplate.png",
+      "sha256": "bba7799f724d98d1c8f18df1d5ad8315b4b7569aba16dbcdf561b41e7615dd65",
+      "size": 385
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/netherite_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/netherite_boots.png",
+      "sha256": "afb2c9522c22b183a04f132aec0bd8d4167cf46fb2eec990eae47422fffbe577",
+      "size": 481
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/netherite_chestplate.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/item/netherite_chestplate.png",
+      "sha256": "afb2c9522c22b183a04f132aec0bd8d4167cf46fb2eec990eae47422fffbe577",
+      "size": 481
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/mob_effect/night_vision.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/mob_effect/night_vision.png",
+      "sha256": "48107578aab47fdac17d927db11f507731dd6c42b18eab0998b9a8803f28b24d",
+      "size": 324
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/diamond_layer_1.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/diamond_layer_1.png",
+      "sha256": "8431be27316519c76258652214f8cf97c090d976080ec431f1d048981294c1d1",
+      "size": 1056
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/diamond_layer_2.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/diamond_layer_2.png",
+      "sha256": "82bae730a06e1854b55d436a97815f862a313a1316e73d424f266bbb4dcbe6e4",
+      "size": 1485
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/gold_boots.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/gold_boots.png",
+      "sha256": "1285ec37eb10791d18d04003e3ecf38d72532701cfe0203a6f649a484e740e71",
+      "size": 909
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/gold_layer_1.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/gold_layer_1.png",
+      "sha256": "1285ec37eb10791d18d04003e3ecf38d72532701cfe0203a6f649a484e740e71",
+      "size": 909
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/gold_layer_2.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/gold_layer_2.png",
+      "sha256": "1285ec37eb10791d18d04003e3ecf38d72532701cfe0203a6f649a484e740e71",
+      "size": 909
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/iron_layer_1.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/iron_layer_1.png",
+      "sha256": "fb87fc655ecfcba4479c57bb54bc802975191191f2b282942bf7cdeba11790aa",
+      "size": 1084
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/iron_layer_2.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/iron_layer_2.png",
+      "sha256": "fb87fc655ecfcba4479c57bb54bc802975191191f2b282942bf7cdeba11790aa",
+      "size": 1084
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/netherite_layer_1.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/netherite_layer_1.png",
+      "sha256": "23661dd10c954e80d7cb3f5e3e8195ce15025c55d0b6b366a37f52ac6bcabe78",
+      "size": 1714
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/netherite_layer_2.png": {
+      "url": "https://raw.githubusercontent.com/TU-USUARIO/allio-instances/main/squidgame instace/files/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/models/armor/netherite_layer_2.png",
+      "sha256": "23661dd10c954e80d7cb3f5e3e8195ce15025c55d0b6b366a37f52ac6bcabe78",
+      "size": 1714
+    }
+  }
+}

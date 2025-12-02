@@ -1,0 +1,9 @@
+{
+  "ambient.cave": {
+    "sounds": [
+      "ambient/cave/cave1",
+      "ambient/cave/cave2"
+    ],
+    "subtitle": "subtitles.ambient.cave"
+  }
+}
